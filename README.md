@@ -37,3 +37,5 @@ Fique a vontade para realizar sua contribuição.
 ## Feedback
 Se você tiver algum feedback, por favor nos deixe saber por meio de rehxavier100@hotmail.com
 Aguardo sua mensagem!
+
+[LinkedIn](https://www.linkedin.com/in/renara-xavier-541541225/)
