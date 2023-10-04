@@ -1,18 +1,39 @@
-## Getting Started
+## Conta Bancária 
+Esse projeto tem como objetivo simular uma conta bancário, onde o usuário irá digitar os dados bancários e o sistema irá dizer qual salado disponível em sua conta. 
+A porposta é estudar as sintaxes, métodos e variáveis em Java. 
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Referências
+[GIT BOOK](https://glysns.gitbook.io/java-basico/sintaxe/documentacao), site bem intuitivo com uma boa interface e resumo do instrutor do curso DIO.
 
-## Folder Structure
+## 🛠 Habilidades Desenvolvidas
+Java, Visual Studio Code, HTML, ...
 
-The workspace contains two folders by default, where:
+## Contribuindo
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Fique a vontade para realizar sua contribuição. 
+## Rodando localmente
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Clone o projeto
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+```bash
+  git clone https://github.com/RehXavier/Conta-Bancaria-Projeto-DIO.git
+```
 
-## Dependency Management
+- Entre no diretório do projeto.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+- Instale as dependências
+
+```bash
+  npm install
+```
+
+- Inicie o servidor
+
+```bash
+  npm run start
+```
+
+## Feedback
+Se você tiver algum feedback, por favor nos deixe saber por meio de rehxavier100@hotmail.com
+Aguardo sua mensagem!
